@@ -102,7 +102,7 @@ backend/
 1. **Clone o repositório:**
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/thiagoblake/fleetmanager
 cd backend
 ```
 
